@@ -1,0 +1,104 @@
+<html>
+ <head>
+<title>Pwned! By SHUTD0WN T3RS4K1T1 T34M_72</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style type="text/css">*{margin:0;padding:0;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;-o-box-sizing:border-box;box-lsizing:border-box}body,html{margin:0;padding:0;font:16px/1.4 Lato,sans-serif;color:#fefeff;-webkit-font-smoothing:antialiased;font-smoothing:antialiased;font-family:Comic Sans MS}body{background:#080510;-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}h1{font:2.75em Cinzel,serif;font-weight:400;letter-spacing:.35em;text-shadow:0 0 25px rgba(254,254,255,.85)}h2{font:1.45em Cinzel,serif;font-weight:400;letter-spacing:.5em;text-shadow:0 0 25px rgba(254,254,255,.85);text-transform:lowercase}[class^=letter]{-webkit-transition:opacity 3s ease;-moz-transition:opacity 3s ease;transition:opacity 3s ease}.letter-0{transition-delay:.2s}.letter-1{transition-delay:.4s}.letter-2{transition-delay:.6s}.letter-3{transition-delay:.8s}.letter-4{transition-delay:1s}.letter-5{transition-delay:1.2s}.letter-6{transition-delay:1.4s}.letter-7{transition-delay:1.6s}.letter-8{transition-delay:1.8s}.letter-9{transition-delay:2s}.letter-10{transition-delay:2.2s}.letter-11{transition-delay:2.4s}.letter-12{transition-delay:2.6s}.letter-13{transition-delay:2.8s}.letter-14{transition-delay:3s}h1,h2{visibility:hidden;-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}h1.transition-in,h2.transition-in{visibility:visible}h1 [class^=letter],h2 [class^=letter]{opacity:0}h1.transition-in [class^=letter],h2.transition-in [class^=letter]{opacity:1}#container{display:table;position:absolute;z-index:20;width:100%;height:100%;text-align:center;cursor:none}#container>div{display:table-cell;vertical-align:middle}#container p{position:absolute;width:100%;left:0;bottom:25px;font-size:.8em;letter-spacing:.1em;font-weight:300;color:#76747a;-webkit-font-smoothing:subpixel-antialiased;font-smoothing:subpixel-antialiased}#container p strong{color:#b3abc5}#container p span{font-size:.75em;padding:0 2px}#canvas{position:absolute;z-index:10;top:0;left:0;width:100%;height:100%;cursor:none}#stats{position:absolute;z-index:10;left:10px;top:10px}.dg.ac{z-index:100!important}.STYLE4{color:#FFF}
+</style>
+</head>
+ <body ondragstart="window.event.returnValue=false" oncontextmenu="window.event.returnValue=false" onselectstart="event.returnValue=false">
+
+	<body oncontextmenu='return false;'onkeydown='return false;' onmousedown='return false;'ondragstart='return false' onselectstart='return false'style='-moz-user-select:none; cursor: default;'>
+<script type="text/javascript">
+function onReady(callback) {
+  var intervalID = //Mr.Jack_301
+   window.setInterval(checkReady, 7000);
+  function checkReady() {
+	  if (document.getElementsByTagName('body')[0] !== undefined) {
+		  window.clearInterval(intervalID);
+		  callback.call(this);
+	  }
+  }
+}
+function show(id, value) {
+  document.getElementById(id).style.display = value ? 'block' : 'none';
+}
+onReady(function () {
+  show('page', true);
+  show('loading', false);
+});
+</script><link href='...' rel='icon' type='image/x-icon'/>
+	<style type="text/css"><!--
+body {
+  background: black url("") top center repeat-x;
+}
+#page {
+  display: none;
+}
+	a:link, a:visited {font-weight:normal; text-decoration:none; color:red;}
+body {
+    background:black;
+    color: white;
+}
+input[type=password] {
+	width: 250px;
+	height: 25px;
+	color: red;
+	background: #000000;
+	border: 1px dotted red;
+	padding: 5px;
+	margin-left: 20px;
+	text-align: center;
+}
+input[type=submit] {
+	background:red;
+	border: 1px dotted blue;
+	height=:10px;
+	text-align: center;
+}
+.kontol {
+  text-align: center;
+  -webkit-animation: noise-3 1s linear infinite;
+          animation: noise-3 1s linear infinite;
+  overflow: default;
+}
+.info:after {
+  text-align: center;
+  width: 100%;
+  margin: auto;
+  position: absolute;
+  top: 20px;
+  bottom: 0;
+  left: 40px;
+  right: 0;
+  opacity: 0;
+  color: white;
+}
+@-webkit-keyframes noise-3 {
+  0%,3%,5%,40%,44%,100% {opacity: 1; -webkit-transform: scaleY(1); transform: scaleY(1);}
+  4.3% {opacity: 1; -webkit-transform: scaleY(4); transform: scaleY(4);}
+  43% {opacity: 1; -webkit-transform: scaleX(10) rotate(60deg); transform: scaleX(10) rotate(60deg);
+  }
+	</style><script> 
+alert('Hacked By SHUTD0WN T3RS4K1T1 T34M_72 ')</script>
+</head>
+<!-- STAR PRELOADER SCRIPT -->
+<center><br><br>
+<link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet"type="text/css"> 
+<link href="https://fonts.googleapis.com/css?family=VT323|New+Rocker" rel="stylesheet">		
+<center><div class="SHUTD0WN T3RS4K1T1 T34M_72">
+	<font face='New Rocker'><font size='20'><font style='color:black;text-align: center;text-shadow: 0 0 3px #FF0002, 0px 0px 5px #FF0002,0 0 5px #FF0002, 0 0 5px #FF0002;'>[ SHUTD0WN T3RS4K1T1 T34M_72 ]</font></div>
+<link href="https://fonts.google.com/?selection.family=Merriweather" rel="stylesheet">
+<br>
+<div><center><font face='New Rocker'><font size='5'><font color="#FF0008">Web Site Is Hacked By  SHUTD0WN T3RS4K1T1 T34M_72</center></div>
+<br>
+<h5><center><font face='New Rocker'><font color='red'><font size='10'>[ Hacked ]</font></center></h5<br>
+<center>
+<div><font face='New Rocker'><font size="5"><font color="red">Para nuub handal
+Kami bukan siapa-siapa
+Kami hanya sebuah team dari internet 
+Apa yang kami lakukan, bukan untuk diri kami pribadi
+Dan bukan untuk ketenaran,di setiap nama kami
+We are SHUTD0WN T3RS4K1T1 T34M_72"</div><br><br>
+<div><font face='New Rocker'><font color="red">Tanks To :/</font></div><center>
+<marquee><font color="White">./ALUL [°T3RS4K1T1_72°] 		// its'Scary_Id [°T3RS4K1T1_72°] 		// Cyto  [°T3RS4K1T1_72°] 		// SO4PM4ST3R
+[°T3RS4K1T1_72°]    </marquee>
